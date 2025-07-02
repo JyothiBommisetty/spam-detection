@@ -6,11 +6,11 @@ This project is a simple implementation of a spam detection system using machine
 
 spam_detection/
 │
-├── spam_detection.ipynb 
-├── requirements.txt 
 ├── .gitignore 
 ├── LICENSE
-└── README.md 
+├── README.md
+├── requirements.txt
+└── spam_detection.ipynb
 
 
 ## 🧪 Features
@@ -34,14 +34,14 @@ source venv/bin/activate
 3. **Install the dependencies**
 pip install -r requirements.txt
 
-4. **Launch Jupyter Notebook**
-   jupyter notebook
+4. **Launch Google Colab Notebook**
+   google colab
 
    
 🧠 **Model & Dataset**
 The notebook uses basic NLP techniques and Scikit-learn models. You can use the SMS Spam Collection Dataset.
 
 
-👩‍💻 Author
+👩‍💻 **Author**
 Jyothi Bommisetty
 
